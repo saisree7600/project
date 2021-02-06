@@ -5,3 +5,4 @@ print("kalidindi")
 print("SAM")
 a=10
 print(a)
+print("Amith")
